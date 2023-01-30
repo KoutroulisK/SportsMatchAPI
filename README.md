@@ -1,4 +1,4 @@
-﻿# Matches REST API
+﻿# Sports Match REST API
 
 ## Introduction
 This is a basic REST API which offers CRUD functionality in order to manage data for a sport match along with its odds. It has been built with JAVA and Spring Boot and utilizes PostgreSQL for its database needs.
